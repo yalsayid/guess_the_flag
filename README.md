@@ -10,7 +10,7 @@ The following **required** functionality is completed:
 
 - [X] User can view a set of flags.
 - [X] User can select a flag that matches the indicated country. 
-- [X] Everytime a user selects a country, a alert notifies the user whether there selection was incorrect/correct as well as their updated score.
+- [X] Everytime a user selects a country, an alert notifies the user whether there selection was incorrect/correct as well as their updated score.
 
 ## Video Walkthrough
 
