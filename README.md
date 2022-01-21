@@ -1,6 +1,6 @@
 # Hacking With Swift(HWS) - Project 2: Guess the Flag
 
-This is a basic game utilizing UIKit that shows some random flags to users and asks them to choose which one belongs to a particualr country. 
+This basic game utilizing UIKit shows random flags to users and asks them to choose which one belongs to a particualr country. 
 
 Time spent: **1.5** hours spent in total
 
